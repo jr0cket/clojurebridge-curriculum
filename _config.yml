@@ -1,13 +1,13 @@
 ---
-email: viebel@gmail.com
-author: viebel
-author_github: viebel
-title: Klipse for Kids
-tagline: Klipse for Kids
-nutshell: A fun way to teach your kids LISP and Clojure
+email: john@jr0cket.co.uk
+author: jr0cket
+author_github: jr0cket
+title: ClojureBridge London
+tagline: ClojureBridge London
+nutshell: Making coding fun and inclusive with Clojure
 
 description: |
-  (A note to the parents: This tutorial's goal is to teach the kids the foundations of functional programming, in a fun and interactive way. It is mostly based on Clojure and LISP. The interactive code snippets are powered by <a href="https://github.com/viebel/klipse">Klipse</a>.)
+  A free workshop encouraging greater inclusivity into the Clojure community.  We support those new to programming up to developers new to Clojure. The interactive code snippets are powered by <a href="https://github.com/viebel/klipse">Klipse</a>.)
 
 sass:
   sass_dir: assets/css
