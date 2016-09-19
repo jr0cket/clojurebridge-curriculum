@@ -7,7 +7,7 @@ tagline: ClojureBridge London
 nutshell: Making coding fun and inclusive with Clojure
 
 description: |
-  A free workshop encouraging greater inclusivity into the Clojure community.  We support those new to programming up to developers new to Clojure. The interactive code snippets are powered by <a href="https://github.com/viebel/klipse">Klipse</a>.)
+  (A free workshop encouraging greater inclusivity into the Clojure community.  We support those new to programming up to developers new to Clojure. The interactive code snippets are powered by <a href="https://github.com/viebel/klipse">Klipse</a>.)
 
 sass:
   sass_dir: assets/css
